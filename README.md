@@ -21,7 +21,7 @@ in this lab we will be able to use Managed Identity (User & System) to connect t
 ##### II. User Identity
 ![alt text](Imgs/UserID.png "UserID")
 
-### 2. **Destination servies (Storage,KV,SQL ..etc )** 
+### 2. **Destination services (Storage,KV,SQL ..etc )** 
 
 I. **Storage Account** all what you need to **Add Azure role assignments** and azure will take care about the rest of steps .
  
